@@ -1,1 +1,2 @@
-worker: python gold_bot_railway.py
+
+worker: python gold_bot-6.py
