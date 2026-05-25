@@ -1,6 +1,5 @@
-
 python-telegram-bot==20.7
 requests==2.31.0
-pandas==2.0.3
+pandas
 schedule==1.2.1
-numpy==1.24.0
+numpy
