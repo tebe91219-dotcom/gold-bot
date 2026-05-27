@@ -1,1 +1,1 @@
-python "gold_bot-6.py"
+worker: python gold_bot-6.py
